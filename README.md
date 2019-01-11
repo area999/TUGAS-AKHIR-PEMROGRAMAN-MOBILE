@@ -10,4 +10,4 @@ KELAS: 3<br><br>
 LINK SNACK:https://snack.expo.io/@masgengs/catatanharian-<br><br>
 
 QR CODE 
-<br><br><img src="QR_C.PNG">
+<br><br><img src="QR_C.png">
